@@ -1,3 +1,7 @@
+### Create new evaluation function
+
+new_betterEvaluationFunction in ```multiAgents.py```
+
 ### How to run
 
 ```python pacman.py```
